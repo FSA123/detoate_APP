@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+backend/*.db
+backend/*.db-wal
+backend/*.db-shm
+frontend/node_modules/
+frontend/dist/
+.DS_Store
+backend/logs/
+backend/backups/
+dist/
+build/
+.build-venv/
+backend/config.txt

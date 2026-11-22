@@ -1,0 +1,2 @@
+# Scripturile Windows au nevoie de CRLF: cu LF, etichetele și goto din cmd.exe se pot strica
+*.bat text eol=crlf

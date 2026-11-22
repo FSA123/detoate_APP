@@ -1,0 +1,5 @@
+flask>=3.0
+waitress>=3.0.0
+openpyxl>=3.1.0
+defusedxml>=0.7  # openpyxl îl folosește pentru fișierele Excel încărcate
+pyserial>=3.5
